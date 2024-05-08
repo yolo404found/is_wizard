@@ -1,0 +1,12 @@
+{
+  "name": "is_wizard",
+  "version": "1.0.0",
+  "description": "are you a wizard?",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wya-wizard",
+  "license": "ISC"
+}
